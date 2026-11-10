@@ -535,4 +535,5 @@ Additional documents are maintained in `docs/`:
 
 This project demonstrates an MLOps lifecycle from data ingestion and validation to training, tracking, quality gates, model lifecycle decisions, inference, monitoring, and conditional deployment. The recorded integration test shows the system can process a new batch and safely reject a candidate that does not outperform the current Production model. GitHub Actions automation is integrated with a self-hosted Windows runner; unattended scheduling remains dependent on keeping that runner and its local services available.
 #   c h u r n - p r e d i c t i o n  
+ #   c h u r n - p r e d i c t i o n  
  
